@@ -1,0 +1,7 @@
+version=1.1
+title=Rick's MLC SqueakyToy
+description= Spiffo to the rescue!  Hold Spiffo or one of Spiffo's Friends in your secondary hand to enhance your combat experience.
+description= Requires the Brutal Handwork mod.
+tags=Build 41
+tags=Silly/Fun
+visibility=public
